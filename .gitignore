@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (for local tooling like markdownlint)
+node_modules/
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+
+# Build output (GitHub Pages)
+_site/
+.jekyll-cache/
